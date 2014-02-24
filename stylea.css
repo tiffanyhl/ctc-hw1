@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+}
+th {
+    background-color: #687291;
+    color: white;
+    text-align: justify;
+}
+td, th {
+    padding-left: 10px;
+    font-family: Tahoma, serif;
+    font-size: 13px;
+}
+td {
+    border-top: 1px solid white;
+}
+tr {
+    background-color: #dfe1e7;
+}
+.alt { 
+    background-color: #eeeff2;
+}
+.center {
+    text-align: center;
+}
+.total {
+    display: none;
+}
